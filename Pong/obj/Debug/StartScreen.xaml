@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="Pong.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Pong"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <StackPanel Margin="0" VerticalAlignment="Center"  HorizontalAlignment="Center" Height="300" Width="500">
+            <TextBox x:Name="WillkommenBox" TextWrapping="Wrap" Text="Willkommen im Spiel" Margin="0" Height="37" HorizontalAlignment="Center" VerticalAlignment="Center" Width="295" Padding="0" UseLayoutRounding="False" MinWidth="100" MinHeight="30" HorizontalContentAlignment="Left"/>
+            <Button x:ConnectionId='0' x:Name="StartGame" Content="Spiel Starten" Width="200" Height="50" Margin="0,200,0,0" HorizontalAlignment="Center"                          />
+
+        </StackPanel>
+
+    </Grid>
+</Page>
+

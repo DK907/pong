@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WINDOWSPC</Machine>
+    <WindowsUser>Daniel</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d5c5fd6a-9020-447d-bc20-769001f72398</PackageIdentityName>
+    <RegisteredManifestChecksum>544B75E72B3326916192B3E6910918BA3CBEBD27C2B126C259366FD5DF20ECC9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d5c5fd6a-9020-447d-bc20-769001f72398_1.0.0.0_neutral__jfy0tqa6j2t7t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d5c5fd6a-9020-447d-bc20-769001f72398_jfy0tqa6j2t7t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d5c5fd6a-9020-447d-bc20-769001f72398</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Ramona8.1</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Daniel\Downloads\Pong %281%29\Pong\Pong\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T09:34:43.546</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Daniel\Downloads\Pong %281%29\Pong\Pong\bin\Debug\Pong.exe">
+      <PackagePath>Pong.exe</PackagePath>
+      <Modified>2014-06-03T09:44:42.490</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Downloads\Pong %281%29\Pong\Pong\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T08:27:24.878</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Downloads\Pong %281%29\Pong\Pong\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T08:27:24.898</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Downloads\Pong %281%29\Pong\Pong\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T08:27:24.912</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Downloads\Pong %281%29\Pong\Pong\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-03T08:27:24.930</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Downloads\Pong %281%29\Pong\Pong\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-06-03T08:27:25.479</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Downloads\Pong %281%29\Pong\Pong\bin\Debug\GameScreen.xbf">
+      <PackagePath>GameScreen.xbf</PackagePath>
+      <Modified>2014-06-03T09:28:20.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Downloads\Pong %281%29\Pong\Pong\bin\Debug\StartScreen.xbf">
+      <PackagePath>StartScreen.xbf</PackagePath>
+      <Modified>2014-06-03T08:27:26.090</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Daniel\Downloads\Pong %281%29\Pong\Pong\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-06-03T09:34:43.285</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
